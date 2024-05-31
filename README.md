@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @fdicarlo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there Welcome 👋
 
-<!---
-fdicarlo/fdicarlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⌨ I’m looking to collaborate on Azure Security, Cloud Security, Zero Trust
+- 💬 Ask me about Microsoft Security , Azure , Microsoft 365, Zero Trust
+- 🥷 I’m on LinkedIn | [https://www.linkedin.com/in/fdicarlo/](https://www.linkedin.com/in/fabriziodicarlo/) 
+- 🥷 I’m on Twitter  | https://twitter.com/fdicarlo
+- 🌐 How to reach me: Linkedin & Twitter 
